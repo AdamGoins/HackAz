@@ -6,7 +6,7 @@ import java.awt.*;
 /**
  * Created by Kalee on 1/23/2016.
  */
-public class ApplicantList extends JFrame{
+public class ApplicantList extends JFrame{ //hey
     private JPanel mainPanel;
     private JLabel backgroundLabel;
     private JTable applicantTable;
